@@ -1,74 +1,113 @@
-<h1 align="center">Hi 👋, I'm Ramadan Mohamed</h1>
-<h3 align="center">🚀 Embedded Systems Engineer & Flutter Developer from Egypt 🇪🇬</h3>
+<div align="center">
+  
+  <h1>Hi 👋, I'm Ramadan Mohamed</h1>
+  
+  <a href="https://github.com/RamadanMohamed11">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&color=00BFFF&center=true&vCenter=true&width=500&lines=Embedded+Systems+Engineer;Flutter+Developer;Computer+%26+Control+Engineer;Problem+Solver" alt="Dynamic Typing Animation" />
+  </a>
+  
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      I'm a passionate engineer from Egypt with a dual focus on hardware and software. My expertise lies in:
+      <ul>
+        <li>Creating smart, efficient solutions with <b>Embedded Systems</b> (C, C++, Arduino, Raspberry Pi).</li>
+        <li>Building beautiful, cross-platform mobile applications with <b>Flutter</b>.</li>
+      </ul>
+      <p>I am always eager to learn new technologies and take on challenging projects that bridge the gap between the physical and digital worlds.</p>
+    </td>
+    <td valign="top" width="40%">
+      <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤝 Connect With Me
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=RamadanMohamed11&show_icons=true&include_all_commits=true&count_private=true&theme=dracula
-  https://github-readme-stats.vercel.app/api/top-langs?username=RamadanMohamed11&layout=compact&langs_count=5&theme=dracula
+  <a href="https://www.linkedin.com/in/ramadan-mohamed-31624a220/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://wa.me/201067911051" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
+  </a>
+  <a href="mailto:ramadan.work010@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://fb.com/elking.medo611" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  </a>
 </p>
 
-<h3 align="center">🔥 Passionate About Building Smart & Scalable Tech 🔥</h3>
+---
+
+### 🚀 Languages and Tools
 
 <p align="center">
-  https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" alt="embeddedc logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg
-</p>
-
----
-
-### 🌐 Problem Solving Profiles
-
-<p align="left">
-  https://www.hackerrank.com/ramadan_work010
-    https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg
-  </a>
-  https://codeforces.com/profile/eng.ramadan_mohamed
-    https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg
-  </a>
-  https://www.leetcode.com/user6194sj
-    https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg
-  </a>
-</p>
-
----
-
-### 📬 Contact Me
-
-<p align="left">
-  https://fb.com/elking.medo611
-    https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge
-  </a>
-  https://www.linkedin.com/in/ramadan-mohamed-31624a220/
-    https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge
-  </a>
-  https://wa.me/201067911051
-    https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge
-  </a>
-  mailto:ramadan.work010@gmail.com
-    https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge
-  </a>
-</p>
-
----
+### 📊 My GitHub Stats
 
 <p align="center">
-  https://profile-counter.glitch.me/RamadanMohamed11/count.svg?
+  <img src="https://github-readme-stats.vercel.app/api?username=RamadanMohamed11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamadanMohamed11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </p>
+
+---
+
+### 🧠 Problem Solving Profiles
+
+<p align="center">
+  <a href="https://www.hackerrank.com/ramadan_work010" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ramadan_work010" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/eng.ramadan_mohamed" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="eng.ramadan_mohamed" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/user6194sj" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6194sj" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 👁️ Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RamadanMohamed11&color=00BFFF&style=for-the-badge" alt="Profile Views Counter" />
+</div>
